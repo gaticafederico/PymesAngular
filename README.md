@@ -1,3 +1,3 @@
-# pymes2021-xfjysh
+# Pymes
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/pymes2021-xfjysh)
+Pymes es un proyecto hecho en Angular para la materia PAV2 de la carrera Ing en Sistemas.
